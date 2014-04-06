@@ -1,5 +1,3 @@
-nonpareil
-=========
 # nonpareil for os x
 **nonpareil for OS X** is set of applications that simulate some of vintage HP calculators. Version provided
 for OS X is based on [nonpareil 0.77 for Linux](http://http://nonpareil.brouhaha.com/) - a micro-assembler
